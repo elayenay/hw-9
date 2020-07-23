@@ -1,4 +1,4 @@
-# as
+# README File Generator
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,19 +13,19 @@
   8. [Contact](#contact)
 
   ### Description
-  * as
+  * README.md generator
   ### Installation
-  * as
+  * Access terminal, input "node index.js" to get started
   ### Usage
-  * as
+  * A series of prompts with questions will appear
   ### License
   * MIT
   ### Contributing
-  * as
+  * Lana
   ### Tests
-  * as
+  * Open the README.md file to see the generated file
   ### Questions
-  * as
+  * Nope
   ### Contact
-  * Github: https://github.com/lz
-  * Email: lz
+  * Github: https://github.com/drlanah
+  * Email: lana*****@gmail.com
