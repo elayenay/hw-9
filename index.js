@@ -28,15 +28,9 @@ const questions = [
     name: "usage",
   },
   {
-    type: "checkbox",
+    type: "list",
     message: "What type of license?",
-    choices: [
-      "MIT",
-      "creative commons",
-      "GNU Public License",
-      "Apache",
-      "None",
-    ],
+    choices: ["MIT", "ISC", "Zlib", "Apache", "None"],
     name: "license",
   },
   {
